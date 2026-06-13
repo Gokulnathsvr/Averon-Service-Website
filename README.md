@@ -16,9 +16,9 @@ Averon is a responsive web application built to showcase professional services. 
 * **Fast Performance:** Optimized assets and streamlined codebase, deployed seamlessly via Netlify.
 
 ## 🛠️ Technologies Used
-* **Frontend:** HTML5, CSS3, JavaScript / [Insert Framework like React or Vue]
+* **Frontend:** HTML5, CSS3, JavaScript / [Framework - React ]
 * **Styling:** [Tailwind CSS / SCSS / Custom CSS]
-* **Design Tools:** [Figma / Adobe XD]
+* **Design Tools:** [Figma]
 * **Hosting/Deployment:** Netlify
 
 ## 🚀 Live Demo
