@@ -24,9 +24,3 @@ Averon is a responsive web application built to showcase professional services. 
 ## 🚀 Live Demo
 Experience the live application here: [Averon - Clarity in Strategy](https://averonservice.netlify.app/)
 
-## 💻 Local Installation & Setup
-To run this project locally on your machine, follow these steps:
-
-1. **Clone the repository:**
-```bash
-   git clone [https://github.com/yourusername/averon.git](https://github.com/yourusername/averon.git)
