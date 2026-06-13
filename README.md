@@ -24,3 +24,16 @@ Averon is a responsive web application built to showcase professional services. 
 ## 🚀 Live Demo
 Experience the live application here: [Averon - Clarity in Strategy](https://averonservice.netlify.app/)
 
+🎨 Design Process
+This project originated from detailed UI storyboarding and interface planning. The visual hierarchy was carefully structured using mid-fidelity mockups, ensuring that the desktop view provided the optimal layout before transitioning into code. The design prioritizes:
+
+Visual Clarity: Uncluttered layouts that guide the user's eye directly to key services.
+
+Brand Identity: A cohesive aesthetic that embodies the "Clarity in Strategy" motto.
+
+📝 Copyright & License
+© 2026 Gokulnath V
+
+This project was created and is owned by Gokulnath V. All rights reserved.
+No part of this project, including the code, design, or textual content, may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the owner.
+
